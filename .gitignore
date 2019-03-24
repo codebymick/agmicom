@@ -98,3 +98,6 @@ typings/
 
 # next.js build output
 .next
+
+*.php
+!wp-content/themes/agmicom/
