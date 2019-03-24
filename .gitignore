@@ -20,6 +20,7 @@ wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 wp-includes/
+wp-admin/
 
 /.htaccess
 /license.txt
