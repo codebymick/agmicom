@@ -21,6 +21,7 @@ wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 wp-includes/
 wp-admin/
+wp-config-sample.php
 
 /.htaccess
 /license.txt
